@@ -29,7 +29,7 @@
     "leader-line": "^1.0.7",
     "luxon": "^3.4.4",
     "masonry-layout": "^4.2.2",
-    "moment": "^2.29.4",
+    "moment": "^2.30.0",
     "packery": "^2.1.2",
     "tailwind": "^4.0.0",
     "tether-shepherd": "^1.8.1",
